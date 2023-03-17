@@ -21,6 +21,10 @@ Run with npx expo start:
 npx expo start
 ```
 
+## Time taken to complete the task
+
+Around 6 hours, across multiple days.
+
 ## Links used to complete the test
 
 [Zoom to Specified Markers](https://github.com/react-native-maps/react-native-maps#zoom-to-specified-markers)
