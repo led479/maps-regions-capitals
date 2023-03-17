@@ -27,6 +27,7 @@ npx expo start
 * "react-geocode": "^0.2.3"
 * "react-native-maps": "1.3.2"
 * "react-native-vector-icons": "^9.2.0"
+* "react-native-dotenv": "^3.4.8"
 
 ## Time taken to complete the task
 
@@ -53,3 +54,5 @@ Around 6 hours, across multiple days.
 [React-native picker library](https://www.npmjs.com/package/@react-native-picker/picker)
 
 [React-native vector icons library](https://www.npmjs.com/package/react-native-vector-icons)
+
+[React-native dotenv library](https://www.npmjs.com/package/react-native-dotenv)
