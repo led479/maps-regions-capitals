@@ -21,6 +21,13 @@ Run with npx expo start:
 npx expo start
 ```
 
+## External libraries used
+
+"@react-native-picker/picker": "2.4.8",
+"react-geocode": "^0.2.3",
+"react-native-maps": "1.3.2",
+"react-native-vector-icons": "^9.2.0"
+
 ## Time taken to complete the task
 
 Around 6 hours, across multiple days.
@@ -42,3 +49,7 @@ Around 6 hours, across multiple days.
 [React-native-maps library](https://www.npmjs.com/package/react-native-maps)
 
 [React-geocode library](https://www.npmjs.com/package/react-geocode)
+
+[React-native picker library](https://www.npmjs.com/package/@react-native-picker/picker)
+
+[React-native vector icons library](https://www.npmjs.com/package/react-native-vector-icons)
