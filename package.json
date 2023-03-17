@@ -12,7 +12,6 @@
     "@expo/ngrok": "^4.1.0",
     "@react-native-picker/picker": "2.4.8",
     "expo": "~48.0.6",
-    "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-geocode": "^0.2.3",
     "react-native": "0.71.3",
