@@ -23,10 +23,10 @@ npx expo start
 
 ## External libraries used
 
-"@react-native-picker/picker": "2.4.8",
-"react-geocode": "^0.2.3",
-"react-native-maps": "1.3.2",
-"react-native-vector-icons": "^9.2.0"
+* "@react-native-picker/picker": "2.4.8"
+* "react-geocode": "^0.2.3"
+* "react-native-maps": "1.3.2"
+* "react-native-vector-icons": "^9.2.0"
 
 ## Time taken to complete the task
 
